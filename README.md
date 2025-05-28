@@ -649,7 +649,7 @@ Each resource should ideally include the following metadata:
 ## 📬 Contact & Updates
 
 Curated by the team at **XR4U**  
-For questions or submissions: [YourEmail@example.com]
+For questions or submissions: [sharma.sahir@gmail.com]
 
 ---
 
