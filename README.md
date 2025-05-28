@@ -2,7 +2,7 @@
 
 Welcome to **XR4U**, an open and growing repository of **freely available XR (Extended Reality) learning resources** curated for educators across all school and college levels. This initiative is built to empower **teachers, mentors, and institutions** by mapping immersive learning content across disciplines.
 
-Currently we have only some demos populated, but this is a build-in-public initiative and thus we are open to suggestions!
+Currently we have only some demos populated, but this is a build-in-public initiative and thus we are open to suggestions! (Plus this is a Work-in-Progress)
 
 
 ## 📚 Subject Index
@@ -46,11 +46,7 @@ Each resource should ideally include the following metadata:
 
 <details>
 <summary>Physics</summary>
-
-| Subtopic        | Grade Level | XR Type | Platform | Link | Description | Pedagogical Goal | Access |
-|-----------------|-------------|---------|----------|------|-------------|------------------|--------|
-| Forces & Motion | High School | VR App  | Quest    | [Link](#) | Simulates Newtonian mechanics | Conceptual Understanding | Free |
-
+...
 </details>
 
 <details>
@@ -62,7 +58,35 @@ Each resource should ideally include the following metadata:
 
 </details>
 
----
+<details>
+<summary>Biology</summary>
+
+| Subtopic        | Application | Grade Level | XR Type | Platform | Link | Description | Pedagogical Goal | Access |
+|-----------------|-------------|-------------|---------|----------|------|-------------|------------------|--------|
+| ??? | Human Anatomy VR | Higher Secondary| VR App  | Quest    | [Link](https://www.meta.com/en-gb/experiences/human-anatomy-vr/6643334382420936/?srsltid=AfmBOorN3fufBvBeyCpx1BZiLtLnyyZYNSTvgnN43PkvaIMssAXv7B6s) | ??? | ??? | Free |
+
+</details>
+
+<details>
+<summary>Earth Science(Geology, Meteorology, Oceanography)</summary>
+...
+</details>
+
+<details>
+<summary>Environmental Science</summary>
+
+| Subtopic        | Application | Grade Level | XR Type | Platform | Link | Description | Pedagogical Goal | Access |
+|-----------------|-------------|-------------|---------|----------|------|-------------|------------------|--------|
+| ??? | Pollinator Park | Primary, Secondary | VR App  | Quest    | [Link](https://www.meta.com/en-gb/experiences/nanome-applab/3077598929010226/?srsltid=AfmBOoqTIBuf-8lX-RfxkUZmDUleyHG_bfVTnvNTb2C0bL-YdUEXrR6A) | ??? | ??? | Free |
+
+</details>
+
+
+<details>
+<summary>Astronomy</summary>
+  ...
+</details>
+
 
 ## II. Formal Sciences
 
