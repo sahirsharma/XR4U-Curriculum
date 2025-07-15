@@ -54,7 +54,7 @@ Each resource should ideally include the following metadata:
 
 | Subtopic        | Application | Grade Level | XR Type | Platform | Link | Description | Pedagogical Goal | Access |
 |-----------------|-------------|-------------|---------|----------|------|-------------|------------------|--------|
-| ??? | Nanome | Higher Secondary| VR App  | Quest    | [Link](https://www.meta.com/en-gb/experiences/nanome-applab/3077598929010226/?srsltid=AfmBOoqTIBuf-8lX-RfxkUZmDUleyHG_bfVTnvNTb2C0bL-YdUEXrR6A) | ??? | ??? | Free |
+| ??? | Nanome | Higher Secondary| VR App  | Quest    | [Link](https://www.meta.com/en-gb/experiences/nanome-applab/3077598929010226/?srsltid=AfmBOoqTIBuf-8lX-RfxkUZmDUleyHG_bfVTnvNTb2C0bL-YdUEXrR6A) | XYZ | ??? | Free |
 
 </details>
 
